@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.logoafpa
+{
+    width: 10%;
+}
+
+.tittle
+{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+h1
+{
+    font-size: 300%;
+}
+span
+{
+    color: red;
+}
+
